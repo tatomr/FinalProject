@@ -1,0 +1,16 @@
+[DEFAULT]
+BASEURL=http://www.financeformulas.net/Compound_Interest.html
+[DOC_google_ads_iframe_/1254144/financeformulas_net-box-2_0_ad_iframe]
+BASEURL=http://tpc.googlesyndication.com/safeframe/1-0-18/html/container.html
+ORIGURL=about:blank
+[DOC_google_ads_iframe_/1254144/financeformulas_net-box-1_0_aswift_0]
+BASEURL=http://tpc.googlesyndication.com/safeframe/1-0-18/html/container.html
+ORIGURL=
+[DOC_aswift_0]
+BASEURL=http://www.financeformulas.net/Compound_Interest.html
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.financeformulas.net/Compound_Interest.html#calcHeader
+IDList=
